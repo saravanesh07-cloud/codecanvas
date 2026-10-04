@@ -16,7 +16,7 @@ export const BUSINESS_CONFIG = {
     whatsappDisplay: '+91 93452 19076',
     whatsappMessage:
       "Hi CodeCanvas! I'm interested in your services. I'd like to know more about pricing and availability.",
-    email: 'saravaneshds03@gmail.com',
+    email: 'codecanvas.admin@gmail.com',
     googleFormUrl: 'https://forms.gle/QbEAZ3omyezW22AY6',
     googleFormEmbedUrl:
       'https://docs.google.com/forms/d/e/1FAIpQLSfZCoZeX30EmzZEbjrkC9DItdAoH4K58Ywer8hGWgVcZNP7QQ/viewform?embedded=true',
